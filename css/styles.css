@@ -162,6 +162,7 @@ img {
         letter-spacing: 0.02em;
         text-align: center;
         color: #fff;
+        margin: 0 auto;
 }
 
 .ordering-button {
@@ -213,6 +214,17 @@ img {
     max-width: 1158px;
     padding: 0 15px;
     margin: 0 auto;
+}
+
+.icon-box {
+    display: flex;
+        align-items: center;
+        justify-content: center;
+        height: 112px;
+        background-color: #f4f4fd;
+        border-radius: 4px;
+        border: 1px solid #8e8f99;
+        margin-bottom: 8px;  
 }
 
 .principles-list {

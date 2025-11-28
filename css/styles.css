@@ -501,7 +501,7 @@ img {
 
 .social-list {
     display: flex;
-    gap: 16px;
+    gap: 24px;
 }
 
 .social-item {

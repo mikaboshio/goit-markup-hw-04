@@ -499,7 +499,12 @@ img {
     fill: var(--icon-color, #f4f4fd);
 }
 
-.social-list {
+.social-list-team {
+    display: flex;
+    gap: 24px;
+}
+
+.social-list-footer {
     display: flex;
     gap: 16px;
 }

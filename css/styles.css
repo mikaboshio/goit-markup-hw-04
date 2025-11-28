@@ -301,12 +301,12 @@ img {
 }
 
 /* SOCIAL MEDIA BLOCK */
-.social-list {
+.social-list-team {
     display: flex;
-    justify-content: center;
     gap: 24px;
     list-style: none;
     padding: 0;
+    justify-content: center;
     margin-top: 16px;
 }
 
@@ -329,7 +329,7 @@ img {
 
 .social-link:hover,
 .social-link:focus {
-    background-color: #404bbf;
+    background-color: #404bbf
 }
 
 .social-icon {
@@ -497,11 +497,6 @@ img {
 
 .social-icon {
     fill: var(--icon-color, #f4f4fd);
-}
-
-.social-list-team {
-    display: flex;
-    gap: 24px;
 }
 
 .social-list-footer {

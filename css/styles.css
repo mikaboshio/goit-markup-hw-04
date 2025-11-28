@@ -485,9 +485,6 @@ img {
     margin-right: 120px;
 }
 
-.social-box {
-
-}
 
 .social-title {
     font-weight: 500;
@@ -496,6 +493,10 @@ img {
     letter-spacing: 0.02em;
     color: var(--white, #ffffff);
     margin-bottom: 16px;
+}
+
+.social-icon {
+    fill: var(--icon-color, #f4f4fd);
 }
 
 .social-list {
@@ -508,7 +509,6 @@ img {
     height: 40px;
 }
 
-/* Link circle */
 .social-link {
     width: 100%;
     height: 100%;
@@ -524,11 +524,6 @@ img {
 .social-link:hover,
 .social-link:focus {
     background-color: #31d0aa;
-}
-
-/* Icons */
-.social-icon {
-    fill: var(--icon-light, #f4f4fd);
 }
 
 /* END OF footer */
